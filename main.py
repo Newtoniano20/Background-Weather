@@ -14,7 +14,6 @@ drizzle = "\drizzle.jpg"
 
 g = geocoder.ip('me')
 coord = g.latlng
-coord = (31.173741, 121.305441)
 lat = coord[0]
 lon = coord[1]
 
